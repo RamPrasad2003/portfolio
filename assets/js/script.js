@@ -14,7 +14,6 @@ $(document).ready(function () {
         } else {
             document.querySelector('#scroll-top').classList.remove('active');
         }
-
         // scroll spy
         $('section').each(function () {
             let height = $(this).height();
@@ -61,7 +60,7 @@ $(document).ready(function () {
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["Student","AIML Researcher", "Data Scientist","web development"],
+    strings: ["Student","AIML Researcher", "Data Scientist","web developer"],
     loop: true,
     typeSpeed: 50,
     backSpeed: 25,
