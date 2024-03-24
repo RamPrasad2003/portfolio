@@ -3,8 +3,7 @@
 This is a personal portfolio website built using HTML, CSS, JavaScript, Bootstrap, and API integration.
 
 ## Live Link
-
-[https://ramprasad2003.github.io/portfolio/](#) <!-- [https://ramprasad2003.github.io/portfolio/] -->
+https://ramprasad2003.github.io/portfolio/
 
 ## Features
 
